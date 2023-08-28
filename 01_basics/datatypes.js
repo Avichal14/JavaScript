@@ -33,3 +33,10 @@ console.log(typeof myfunction);
 // Non Primitive || Refrence type
 
 // Arrays,Objects,Functions
+
+
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack(Primitive)=>copy , Heap(Non-Primitive)=>refrence
+
+let myname="avichal"
