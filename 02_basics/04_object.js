@@ -46,4 +46,42 @@ users[0].email
 // console.log(Object.values(tinderUser));
 // console.log(Object.entries(tinderUser));
 
-console.log(tinderUser.hasOwnProperty('isLoggedin'));
+// console.log(tinderUser.hasOwnProperty('isLoggedin'));
+
+
+//destructring
+
+const course = {
+    coursename :"js ",
+    price: "99",
+    coursenamestu: "avichal"
+}
+
+// course.coursename
+
+const{coursenamestu : student}= course
+// console.log(student);
+
+
+// const navbar = ({company})=>{
+
+// }
+
+// navbar(company = "avichal")
+
+// Apna kaam kisi or k sir pr daalne ko API khte hai
+
+// {
+//     "name" : "avichal",
+//     "coursename" :"js ",
+//     "price" : "free"
+// }
+
+[
+    {
+        
+    }
+    {
+
+    }
+]
